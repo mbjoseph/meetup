@@ -1,4 +1,3 @@
-
 # Earth Lab Data Meetup
 
 Welcome to the Earth Lab data meetup GitHub page!
