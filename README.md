@@ -1,8 +1,12 @@
-# Earth Lab Data Meetup
+# Earth Lab Incubator
 
-Welcome to the Earth Lab data meetup GitHub page!
+Welcome to the Earth Lab Incubator GitHub page!
 This is where we can discuss events, and you can opt in for notifications about upcoming meetups.
+Our intent is to foster an environment for new ideas, collaborations, feedback and data/analytics dives. 
 Our web page has migrated to https://earthlab.github.io/meetup
+
+The upcoming schedule will be updated here:
+https://docs.google.com/spreadsheets/d/1Sg7eMMrIgRpio7xpUkd8sbBz4PcLCySWeIj53EvCNpA/edit#gid=0
 
 ## How to participate
 
